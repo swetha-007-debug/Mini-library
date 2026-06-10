@@ -1,0 +1,38 @@
+[
+    {
+        "id": "101",
+        "title": "Python programming",
+        "author": "John Smith",
+        "issued": false
+    },
+    {
+        "id": "102",
+        "title": "Data structures",
+        "author": "Mark Allen",
+        "issued": false
+    },
+    {
+        "id": "103",
+        "title": "C programming",
+        "author": "Dennis Ritchie",
+        "issued": false
+    },
+    {
+        "id": "104",
+        "title": "DBMS",
+        "author": "Raghu Ramakrishnan",
+        "issued": false
+    },
+    {
+        "id": "105",
+        "title": "Operating System",
+        "author": "Abraham Silberschatz",
+        "issued": false
+    },
+    {
+        "id": "106",
+        "title": "Computer Networks",
+        "author": "Andrew S. Tanenbaum",
+        "issued": false
+    }
+]
